@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <string.h>
 
-#define TamData 8
+#define TAM_Data 8
 
 //Objetivo: Leia uma data no formato DD/MM/AA; Imprima a data no formato MM/DD/AA; Imprima a data no formato AA/MM/DD; Imprima a data no formato DD-MM-AA.
 
@@ -12,7 +12,7 @@
  
 int main() {
     //Declarações
-    char data[TamData];
+    char data[TAM_Data];
 
     //Instruções
 

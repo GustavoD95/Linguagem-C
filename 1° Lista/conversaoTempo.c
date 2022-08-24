@@ -18,7 +18,7 @@ int main()
     
     //instruções
     
-    //printf("Digite a quantidade de segundos: ");
+    printf("Digite a quantidade de segundos: ");
     scanf("%d",&N);
     
     //Calculo para converter os segundos em horas, minutos e segundos

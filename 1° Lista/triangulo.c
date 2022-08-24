@@ -16,11 +16,11 @@ int main() {
     float perimetro, area;
     
     //instruções
-    //printf("Digite o valor do lado 1: ");
+    printf("Digite o valor do lado 1: ");
     scanf("%f", &A);
-    //printf("Digite o valor do lado 2: ");
+    printf("Digite o valor do lado 2: ");
     scanf("%f", &B);
-    //printf("Digite o valor do lado 3: ");
+    printf("Digite o valor do lado 3: ");
     scanf("%f", &C);
     
     //verificar se é ou não um tirângulo

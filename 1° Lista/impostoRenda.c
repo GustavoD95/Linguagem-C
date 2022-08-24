@@ -16,7 +16,7 @@ int main()
     
     //Instruções
     
-    //printf("DIGITE O VALOR DO SALÁRIO PARA CALCULAR O IMPOSTO DE RENDA: ");
+    printf("DIGITE O VALOR DO SALÁRIO PARA CALCULAR O IMPOSTO DE RENDA: ");
     //leitura de dados.
     scanf("%f", &salario); //Ler o valor do salário.
     

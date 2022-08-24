@@ -17,15 +17,15 @@ int main() {
   int horas;
   float valor_hora, valor_salario;
      
-  //printf("Qual a matricula do funcionário?\n ");
+  printf("Qual a matricula do funcionário?\n ");
   scanf("%d", &funcionario);
-  //printf("Quantas horas trabalhadas?\n ");
+  printf("Quantas horas trabalhadas?\n ");
   scanf("%d", &horas);
-  //printf("Quanto recebe em horas?\n ");
+  printf("Quanto recebe em horas?\n ");
   scanf("%f", &valor_hora);
   
   //Cálculo das horas trabalhadas * valor hora = valor salário
- valor_salario = horas * valor_hora;
+  valor_salario = horas * valor_hora;
 
   //Mostrar na tela 
   printf("NUMBER = %d\n", funcionario);

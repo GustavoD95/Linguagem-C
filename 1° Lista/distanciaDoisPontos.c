@@ -16,10 +16,10 @@ int main() {
     float distancia;
     
     //instruções
-    //printf("Quais as coordenadas do ponto 1 ? ");
+    printf("Quais as coordenadas do ponto 1 ? ");
     scanf("%f %f", &x1, &y1); 
     
-    //printf("Quais as coordenadas do ponto 2 ? ");
+    printf("Quais as coordenadas do ponto 2 ? ");
     scanf("%f %f", &x2, &y2); 
   
     //Cálculo da distância entre dois pontos

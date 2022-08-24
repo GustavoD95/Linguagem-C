@@ -8,11 +8,11 @@
 
 //Saida: Para cada arquivo da entrada, terá um arquivo de saída. O arquivo de saída tem quatro linhas com um número inteiro em cada uma delas, conforme foi entrado.
 
-#define TamCPF 14
+#define TAM_CPF 14
 
 int main() {
     //Declarações
-    char cpf[TamCPF];
+    char cpf[TAM_CPF];
 
     //Instruções
 
